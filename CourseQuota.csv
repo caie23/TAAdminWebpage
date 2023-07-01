@@ -1,0 +1,11 @@
+term_month_year,course_num,course_type,course_name,instructor_name,course_enrollment_num,TA_quota
+Winter2022,COMP307,science,web development,Joseph V,230,30
+Winter2022,COMP308,science,computer system lab,Joseph V,50,30
+Winter2022,COMP322,science,intro to cpp,Chad,200,30
+Winter2022,COMP330,science,computing theory,Claude Crepeau,80,30
+Winter2022,COMP409,science,concurrent programming,Clark V,70,30
+Winter2022,COMP421,science,database,Joseph D,300,30
+Fall2021,COMP303,science,software design,Martin,150,30
+Fall2021,COMP310,science,operating system,Mahesh,200,30
+Fall2021,COMP324,science,statistics,Yi Yang,150,30
+Fall2021,COMP350,science,numerical computing,Xiaowen Chang,120,30

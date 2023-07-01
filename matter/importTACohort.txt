@@ -1,0 +1,7 @@
+        <!-- Import TA Cohort page -->
+        <h2>Import TA Cohort by clicking the button below:</h2>
+        <form method="post">
+            <p style="color: #EA3223;">NOTE: This action will overwrite existing records.</p>
+            <input class="importBtn" type="submit" id="importTAcohort" name="importTAcohort" value="Import TA Cohort">
+            <br>
+        </form>

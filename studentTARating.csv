@@ -1,0 +1,11 @@
+student_ID(TA),term_month_year,course_num,score,comment
+260123456,Fall2021,COMP307,5,not very patient
+260234567,Fall2021,COMP308,5,very responsible and helpful
+260345678,Fall2021,COMP322,5,nice TA and knowledgable
+260456789,Winter2022,COMP350,4,very good
+260567890,Winter2022,COMP360,4,good
+260472859,Winter2022,COMP303,4,not good
+260654321,Fall2022,COMP330,3,nice and patient
+260765432,Fall2022,COMP251,3,good TA
+260876543,Winter2023,COMP206,2,very nice
+260098765,Winter2023,COMP350,1,"super friendly, awesome"

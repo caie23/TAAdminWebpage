@@ -1,0 +1,15 @@
+    </div>
+    <footer>
+        <div class="footer">
+            <img class="logo2" src="img/logo2.png" alt="School of CS">
+            <p class="credit">
+                &copy; McGill University 2022 &nbsp;
+                <span>
+                    <a class="creditlink" href="https://www.cs.mcgill.ca/about/#credit">Credits</a>
+                </span>
+            </p>
+        </div>
+    </footer>
+</body>
+
+</html>
